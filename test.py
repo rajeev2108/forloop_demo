@@ -1,4 +1,5 @@
 def number():
-	for j in range(10):
-		print j
+	for i in range(10):
+		print i
 print "pankaj"
+print "sarika"
